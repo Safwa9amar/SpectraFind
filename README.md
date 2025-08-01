@@ -1,4 +1,4 @@
-# 📱 Mobile Finder App
+# 📱 Mobile Finder App (SpectraFind)
 
 A modern full-stack application for comparing, listing, buying, and selling mobile phones. Built for **Web (Next.js 14)** and **Android (React Native)** platforms with real-time chat and powerful filtering.
 
