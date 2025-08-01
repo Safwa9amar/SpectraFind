@@ -44,6 +44,12 @@ export function Footer() {
         </div>
         <div className="border-t mt-8 pt-6 text-center text-sm text-muted-foreground">
           <p>&copy; {new Date().getFullYear()} SpectraFind. All rights reserved.</p>
+          <p>
+            Developed by Hamza Hassani. Visit my website at{' '}
+            <a href="https://hamza-safwan.netlify.app" target="_blank" rel="noopener noreferrer" className="underline hover:text-primary">
+              hamza-safwan.netlify.app
+            </a>
+          </p>
         </div>
       </div>
     </footer>
