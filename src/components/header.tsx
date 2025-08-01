@@ -9,6 +9,7 @@ import {
   SheetTrigger,
 } from "@/components/ui/sheet";
 import * as React from "react";
+import Image from "next/image";
 
 export function Header() {
   const [isOpen, setIsOpen] = React.useState(false);

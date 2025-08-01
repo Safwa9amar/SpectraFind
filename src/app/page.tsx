@@ -3,6 +3,7 @@ import { ArrowRight, BarChart, Search, Sparkles } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { PhoneCard } from '@/components/phone-card';
 import { featuredListings } from '@/lib/mock-data';
+import Image from 'next/image';
 
 export default function Home() {
   return (
